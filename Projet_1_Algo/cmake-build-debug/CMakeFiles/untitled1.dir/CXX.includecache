@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Insomniac/Desktop/Codes/untitled1/Dichotomie.h
+iostream
+-
+
+C:/Users/Insomniac/Desktop/Codes/untitled1/Fonction.h
+
+C:/Users/Insomniac/Desktop/Codes/untitled1/Newton.h
+iostream
+-
+math.h
+-
+
+C:/Users/Insomniac/Desktop/Codes/untitled1/Sommation.h
+iostream
+-
+
+C:/Users/Insomniac/Desktop/Codes/untitled1/main.cpp
+iostream
+-
+math.h
+-
+iomanip
+-
+Fonction.h
+C:/Users/Insomniac/Desktop/Codes/untitled1/Fonction.h
+Dichotomie.h
+C:/Users/Insomniac/Desktop/Codes/untitled1/Dichotomie.h
+Newton.h
+C:/Users/Insomniac/Desktop/Codes/untitled1/Newton.h
+Sommation.h
+C:/Users/Insomniac/Desktop/Codes/untitled1/Sommation.h
+
